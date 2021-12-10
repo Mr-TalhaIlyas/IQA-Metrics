@@ -40,4 +40,4 @@ Scores from the similarity metrics for different types of noising methods
 ![alt text](https://miro.medium.com/max/700/1*NuN5Xm8tLzsbhT1fsmHkWg.png)
 
 ## Reference
-[Measuring similarity in two images using Python](https://towardsdatascience.com/measuring-similarity-in-two-images-using-python-b72233eb53c6)
+[Measuring similarity in two images using Python @ TowardsDataSceince by Param Raval](https://towardsdatascience.com/measuring-similarity-in-two-images-using-python-b72233eb53c6)
