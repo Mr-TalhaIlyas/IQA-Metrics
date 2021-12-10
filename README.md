@@ -11,13 +11,13 @@ pip install sewar
 
 Then import necessary packages.
 
-```
+```python
 from sewar.full_ref import mse, rmse, psnr, uqi, ssim, ergas, scc, rase, sam, msssim, vifp
 ```
 
 Define/ Load images
 
-```
+```python
 org = cv2.imread()
 blur = cv2.imread()
 
