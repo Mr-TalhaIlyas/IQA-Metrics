@@ -3,6 +3,7 @@
 ### Sample Image
 
 ![alt text](https://miro.medium.com/max/1400/1*GWmJfFwoPj2_M03Qyd8nxQ.png)
+
 First install package
 
 ```
