@@ -1,10 +1,10 @@
-# Measure-similarity-in-images
+# Full Reference (FR) and Blind (B) Image Qality Assessment
 
 ### Sample Image
 
 ![alt text](https://miro.medium.com/max/1400/1*GWmJfFwoPj2_M03Qyd8nxQ.png)
 
-First install package
+First install [package](https://pypi.org/project/sewar/)
 
 ```
 pip install sewar
